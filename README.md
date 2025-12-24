@@ -233,10 +233,7 @@
     <li><strong>Linux, Windows, or macOS</strong> with audio input capabilities</li>
   </ul>
   
-  <h3>Step 1: Clone Repository</h3>
-  <pre><code>git clone https://github.com/mwasifanwar/voiceprint-id.git
-cd voiceprint-id</code></pre>
-  
+ 
   <h3>Step 2: Create Virtual Environment</h3>
   <pre><code>python -m venv voiceprint-env
 
